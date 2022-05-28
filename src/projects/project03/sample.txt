@@ -1,0 +1,29 @@
+Within project management, scrum, sometimes
+written Scrum or SCRUM, is a framework for
+developing, delivering, and sustaining products in a
+complex environment,[1] with an initial emphasis
+on software development, although it has been used
+in other fields including research, sales, marketing
+and advanced technologies.[2] It is designed for
+teams of ten or fewer members, who break their work
+into goals that can be completed within time-boxed
+iterations, called sprints, no longer than one month and most commonly two weeks. The
+scrum team assess progress in time-boxed daily meetings of 15 minutes or less, called
+daily scrums (a form of stand-up meeting). At the end of the sprint, the team holds two
+further meetings: the sprint review which demonstrates the work done to stakeholders to
+elicit feedback, and sprint retrospective which enables the team to reflect and improve.
+The software development term scrum was first used in a 1986 paper titled "The New New
+Product Development Game" by Hirotaka Takeuchi and Ikujiro Nonaka.[4][5] The paper was
+published in the Jan 1986 issue of Harvard Business Review. The term is borrowed
+from rugby, where a scrum is a formation of players. The term scrum was chosen by the
+paper's authors because it emphasizes teamwork.[6]
+Scrum is occasionally seen written in all-capitals, as SCRUM.[7] While the word itself is not
+an acronym, its capitalized styling likely comes from an early paper by Ken Schwaber[8] that
+capitalized SCRUM in its title.[9][10]
+While the trademark on the term scrum itself has been allowed to lapse, it is now deemed
+as a generic trademark owned by the wider community rather than an individual.[11]
+Many of the terms used in scrum literature are typically written with leading capitals
+(e.g., Scrum Master, Daily Scrum), but in many cases should not be capitalized if they
+are common nouns. To maintain correct grammar, this article uses normal sentence case
+for these terms (e.g., scrum master, daily scrum) – unless they are recognized marks (such
+as Certified Scrum Master and Professional Scrum Master)
